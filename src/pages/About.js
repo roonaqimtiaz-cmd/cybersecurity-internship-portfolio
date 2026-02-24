@@ -29,7 +29,7 @@ const About = () => {
                     <div className="card" style={{ background: 'linear-gradient(135deg, rgba(0, 240, 255, 0.1), rgba(0, 255, 136, 0.1))' }}>
                         <h2>🏢 About the Internship</h2>
                         <div style={{ marginTop: 'var(--spacing-md)' }}>
-                            <p><strong>Duration:</strong> 5 Weeks</p>
+                            <p><strong>Duration:</strong> 6 Weeks</p>
                             <p><strong>Focus Area:</strong> Cybersecurity Fundamentals, Linux, and SQL</p>
                             <p style={{ marginTop: 'var(--spacing-sm)' }}>
                                 During this internship, I engaged in structured online learning, practical Linux
